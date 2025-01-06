@@ -9,7 +9,7 @@ Azure-pyk4a
 
 ### 1.2 Azure Kinect Body Tracking SDK (선택 사항)
    
-Body Tracking이 필요한 경우
+- Body Tracking이 필요한 경우
    
     https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/body-sdk-download
 
@@ -27,8 +27,9 @@ Body Tracking이 필요한 경우
 
 ### 1.4 Python 설치
    
-Python 3.8 ~ 3.10 버전 중 하나를 설치합니다.
-설치 중 PATH에 추가(Add to PATH) 옵션 활성화 필수.
+- Python 3.8 ~ 3.10 버전 중 하나를 설치합니다.
+
+- 설치 중 PATH에 추가(Add to PATH) 옵션 활성화 필수.
 
 
 ## 2. 필수 환경변수 설정
