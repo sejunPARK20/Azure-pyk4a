@@ -1,4 +1,4 @@
-# Azure-pyk4a
+# Azure kinect - pyk4a
 
     https://github.com/etiennedub/pyk4a/
  
