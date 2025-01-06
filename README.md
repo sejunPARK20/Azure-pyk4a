@@ -42,9 +42,11 @@
   
 - K4A_PLUGIN_PATH:
  
-      C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin
+      C:\Program Files\Azure Kinect SDK v1.4.2\sdk\windows-desktop\amd64\release\bin
   
 - PATH: 위 SDK 경로를 포함.
+ 
+      C:\Program Files\Azure Kinect SDK v1.4.2\sdk\windows-desktop\amd64\release\bin
 
 ### 환경변수 설정 방법:
 
