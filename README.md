@@ -63,7 +63,7 @@ Azure-pyk4a
   
 - cmake 및 pybind11 설치
 
-    pip install cmake pybind11
+      pip install cmake pybind11
 
 ### 3.2 pyk4a 설치
 
