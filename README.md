@@ -1,5 +1,8 @@
 Azure-pyk4a
 
+    https://github.com/etiennedub/pyk4a/
+ 
+
 # 1. Installization
 
 ### 1.1 Azure Kinect SDK
@@ -47,3 +50,35 @@ Azure-pyk4a
 - 시스템 변수에서 PATH 항목 편집 → 위 경로 추가
 
 - 새 시스템 변수로 K4A_PLUGIN_PATH 생성 후 값 추가
+
+-------------
+# 3. pyk4a 설치
+### 3.1 의존성 설치
+
+- 최신 pip, setuptools, wheel 업데이트
+
+    pip install --upgrade pip setuptools wheel
+  
+- cmake 및 pybind11 설치
+
+    pip install cmake pybind11
+
+### 3.2 pyk4a 설치
+
+pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치할 수 있다.
+
+- 방법1. PyPI에서 설치(cmd)
+
+    pip install pyk4a
+
+- 방법2. 소스에서 설치
+-- 1. GitHub에서 pyk4a 저장소를 클론:
+    git clone https://github.com/etiennedub/pyk4a.git
+  
+    cd pyk4a
+
+-- 2. 소스에서 설치
+    pip install .
+
+
+
