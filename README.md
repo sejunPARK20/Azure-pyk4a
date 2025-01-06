@@ -58,8 +58,7 @@ Azure-pyk4a
 ### 3.1 의존성 설치
 
 - 최신 pip, setuptools, wheel 업데이트
-
-     pip install --upgrade pip setuptools wheel
+      pip install --upgrade pip setuptools wheel
   
 - cmake 및 pybind11 설치
 
@@ -74,6 +73,7 @@ pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치�
       pip install pyk4a
 
 - 방법2. 소스에서 설치
+ 
 -- 1. GitHub에서 pyk4a 저장소를 클론:
       git clone https://github.com/etiennedub/pyk4a.git
 
