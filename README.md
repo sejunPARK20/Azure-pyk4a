@@ -71,13 +71,13 @@ pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치�
 
 - 방법1. PyPI에서 설치(cmd)
 
-    pip install pyk4a
+      pip install pyk4a
 
 - 방법2. 소스에서 설치
 -- 1. GitHub에서 pyk4a 저장소를 클론:
-    git clone https://github.com/etiennedub/pyk4a.git
-  
-    cd pyk4a
+      git clone https://github.com/etiennedub/pyk4a.git
+
+      cd pyk4a
 
 -- 2. 소스에서 설치
     pip install .
