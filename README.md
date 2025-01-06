@@ -4,14 +4,14 @@ Azure-pyk4a
 
 ### 1.1 Azure Kinect SDK
        
->> https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/sensor-sdk-download
+> https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/sensor-sdk-download
 
 
 ### 1.2 Azure Kinect Body Tracking SDK (선택 사항)
    
-   Body Tracking이 필요한 경우
+> Body Tracking이 필요한 경우
    
-       https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/body-sdk-download
+ > https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/body-sdk-download
 
 
  ### 1.3 Visual Studio 설치
