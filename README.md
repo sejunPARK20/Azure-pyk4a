@@ -95,5 +95,23 @@ pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치�
 -- 2. 소스에서 설치
     pip install .
 
+------------------------
+
+
+# 4. 설치 확인
+
+### 4.1 Python에서 확인
+       
+    import pyk4a
+    print(pyk4a.__version__)
+
+
+
+### 1.2 Azure Kinect Body Tracking SDK (선택 사항)
+   
+- Body Tracking이 필요한 경우
+
+      https://learn.microsoft.com/en-us/previous-versions/azure/kinect-dk/body-sdk-download
+
 
 
