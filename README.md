@@ -48,13 +48,22 @@
  
       C:\Program Files\Azure Kinect SDK v1.4.2\sdk\windows-desktop\amd64\release\bin
 
-### 환경변수 설정 방법:
+### 2.2 환경변수 설정 방법:
 
 - "시작 메뉴" → "환경 변수 편집" 검색 → "환경 변수" 클릭
 
 - 시스템 변수에서 PATH 항목 편집 → 위 경로 추가
 
 - 새 시스템 변수로 K4A_PLUGIN_PATH 생성 후 값 추가
+
+### 환경변수 설정 이유
+Azure Kinect SDK는 시스템에서 동작하기 위해 실행 파일 및 라이브러리 파일의 경로를 알아야 한다. 이를 환경변수에 추가하면
+
+- 프로그램이 필요한 라이브러리(DLL) 파일을 찾을 수 있습니다.
+
+- 명령 프롬프트(CMD)나 Python 코드에서 SDK 도구(k4aviewer, k4arecorder 등)를 바로 실행할 수 있습니다.
+
+- pyk4a가 Azure Kinect SDK와 연동될 수 있습니다.
 
 -------------
 # 3. pyk4a 설치
