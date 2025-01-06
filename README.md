@@ -36,7 +36,7 @@ Azure-pyk4a
 # 2. 필수 환경변수 설정
 ### 2.1 Azure Kinect SDK 환경변수 추가:
   
-K4A_PLUGIN_PATH: C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin
+- K4A_PLUGIN_PATH: C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin
   
-PATH: 위 SDK 경로를 포함.
+- PATH: 위 SDK 경로를 포함.
    
