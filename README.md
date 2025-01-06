@@ -58,6 +58,7 @@ Azure-pyk4a
 ### 3.1 의존성 설치
 
 - 최신 pip, setuptools, wheel 업데이트
+ 
       pip install --upgrade pip setuptools wheel
   
 - cmake 및 pybind11 설치
