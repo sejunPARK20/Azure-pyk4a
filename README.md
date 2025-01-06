@@ -24,8 +24,8 @@ Azure-pyk4a
 - 설치 시 C++ 데스크톱 개발 워크로드와 MSVC 빌드 도구 선택.
 
 - 필수로 깔아야하는 것: C++ 데스크톱 개발, 개별 구성 요소(CMake, Windows 10 SDK)
-  
-    https://visualstudio.microsoft.com/ko/vs/
+
+      https://visualstudio.microsoft.com/ko/vs/
 
 
 ### 1.4 Python 설치
