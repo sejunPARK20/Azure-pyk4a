@@ -109,13 +109,13 @@ pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치�
 
 ### 4.2 Azure Kinect 테스트
 
-- Body Tracking이 필요한 경우
+     from pyk4a import Config, PyK4A
 
-      from pyk4a import Config, PyK4A
-      k4a = PyK4A(Config(color_resolution=pyk4a.ColorResolution.RES_720P))
-      k4a.start()
-      print("Azure Kinect is running!")
-      k4a.stop()
+     k4a = PyK4A(Config(color_resolution=pyk4a.ColorResolution.RES_720P))
+     k4a.start()
+     print("Azure Kinect is running!")
+     k4a.stop()
+
 
 
 
