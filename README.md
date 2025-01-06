@@ -39,4 +39,11 @@ Azure-pyk4a
 - K4A_PLUGIN_PATH: C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin
   
 - PATH: 위 SDK 경로를 포함.
-   
+
+### 환경변수 설정 방법:
+
+- "시작 메뉴" → "환경 변수 편집" 검색 → "환경 변수" 클릭
+- 
+- 시스템 변수에서 PATH 항목 편집 → 위 경로 추가
+- 
+- 새 시스템 변수로 K4A_PLUGIN_PATH 생성 후 값 추가
