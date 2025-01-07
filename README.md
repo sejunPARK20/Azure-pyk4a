@@ -123,5 +123,12 @@ pyk4a는 PyPI에서 설치하거나 Git에서 소스를 직접 빌드해 설치�
 
 
 
+# 5. Test Codes
+
+git: clone
+
+     https://github.com/etiennedub/pyk4a
+
+
 
 
