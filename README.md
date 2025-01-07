@@ -1,7 +1,12 @@
 # Azure kinect - pyk4a
 
     https://github.com/etiennedub/pyk4a/
+
+# 0. Anaconda
  
+    https://www.anaconda.com/
+    
+--------------------
 
 # 1. Installization
 
